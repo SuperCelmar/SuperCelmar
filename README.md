@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Welcome to my page, unusual wanderer :)
+
+## About me
+Entrepreneur, CentraleSupélec Student, Implementing AI into businesses.
+
+## My Current Work
+Currently tinkering on an automated market research, startup-idea generator. 
+
+## How to reach me
+
 <!--
 **SuperCelmar/SuperCelmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
