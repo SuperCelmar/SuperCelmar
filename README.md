@@ -3,12 +3,17 @@
 Welcome to my page, unusual wanderer :)
 
 ## About me
-Entrepreneur, CentraleSupélec Student, Implementing AI into businesses.
+Running an AI Agency: AutomationDFY we work hand to hand with US Franchise Companies that are making 10M+ annually: Edible Arrangements, Togos.com, FranServe...
+I'm also a CentraleSupélec Graduate (French Top Engineering University) not a big deal, but Science, Physics, Engineering — basically Problem Solving is my thing.
 
 ## My Current Work
-Currently tinkering on an automated market research, startup-idea generator. 
+- I'm currently working on internal custom apps for Ecom businesses, those are under NDA you won't be seeing those publically here
+- Aside I'm sharing my knowledge on youtube: @ailogbook
 
 ## How to reach me
+- On youtube: @ailogbook
+- On instagram: @realcelmar
+- Email: marcel.lin@automationdfy.com
 
 <!--
 **SuperCelmar/SuperCelmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
