@@ -12,7 +12,6 @@ I'm also a CentraleSupélec Graduate (French Top Engineering University) not a b
 
 ## How to reach me
 - On youtube: @ailogbook
-- On instagram: @realcelmar
 - Email: marcel.lin@automationdfy.com
 
 <!--
